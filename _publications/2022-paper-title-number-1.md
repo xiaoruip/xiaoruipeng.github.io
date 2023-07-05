@@ -9,5 +9,5 @@ paperurl: 'http://academicpages.github.io/files/s41377-022-00836-2.pdf'
 ---
 
 
-[Download paper here](http://academicpages.github.io/files/s41377-022-00836-2.pdf)
+[Download paper here](http://xiaorui-peng.github.io/files/s41377-022-00836-2.pdf)
 
