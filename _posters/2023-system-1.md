@@ -9,5 +9,5 @@ paperurl: 'http://xiaorui-peng.github.io/files/poster2.pdf'
 ---
 A 3D automatic imaging system of human hand rheumatoid arthritis.
 
-[Download paper here](http://xiaorui-peng.github.io/files/poster2.pdf)
+[Download poster here](http://xiaorui-peng.github.io/files/poster2.pdf)
 
