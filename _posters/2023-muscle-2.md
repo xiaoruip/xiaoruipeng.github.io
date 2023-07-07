@@ -9,5 +9,5 @@ paperurl: 'http://xiaorui-peng.github.io/files/poster1.pdf'
 ---
 Investigate the feasibility of resolving the muscle component, which is characterized by its rich myoglobin content, in intestinal strictures.
 
-[Download paper here](http://xiaorui-peng.github.io/files/poster1.pdf)
+[Download poster here](http://xiaorui-peng.github.io/files/poster1.pdf)
 
