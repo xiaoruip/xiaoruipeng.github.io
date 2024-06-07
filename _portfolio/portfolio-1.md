@@ -1,5 +1,5 @@
 ---
-title: "Photoacoustic imaging of inflammatory arthritis"
+title: "Automatic Imaging System for Inflammatory Arthritis"
 excerpt: "Photo of (a) the automatic PA/US imaging system, (b) the imaging probe holder, robot arm, water tank and patient hand rest, and (c) the probe holder with US probe inside and fiber bundle on both sides. <br/><img src='/images/systemresize.png'>"
 collection: portfolio
 ---
