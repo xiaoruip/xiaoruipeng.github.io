@@ -3,6 +3,7 @@ permalink: /
 title: "Welcome to Xiaorui's Website!"
 excerpt: "About me"
 author_profile: true
+sitemap: false
 redirect_from: 
   - /about/
   - /about.html
