@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Photoacoustic imaging of inflammatory arthritis"
+excerpt: "Photo of (a) the automatic PA/US imaging system, (b) the imaging probe holder, robot arm, water tank and patient hand rest, and (c) the probe holder with US probe inside and fiber bundle on both sides. <br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
