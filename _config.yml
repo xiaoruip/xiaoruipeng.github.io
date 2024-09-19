@@ -9,7 +9,7 @@
 # theme                    : minimal-mistakes-jekyll
 minimal_mistakes_skin    : "aqua" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 locale                   : "en-US"
-title                    : "Xiaorui Peng / Site "
+title                    : "Xiaorui Peng"
 title_separator          : "-"
 name                     : &name "Xiaorui Peng"
 description              : &description "personal description"
