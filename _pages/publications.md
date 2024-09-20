@@ -11,6 +11,8 @@ author_profile: true
 
 <b>Journal</b>
 ======
+* Grigorios M. Karageorgos, Jianwei Qiu, <b>Xiaorui Peng</b>, Zhaoyuan Yang, Soumya Ghose, Aaron Dentinger, Zhanpeng Xu, Janggun Jo, Siddarth Ragupathi, Guan Xu, Nada Abdulaziz, Girish Gandikota, Xueding Wang, David Mills.  <br>[Automated Deep Learning-Based Finger Joint Segmentation in 3-D Ultrasound Images With Limited Dataset](https://doi.org/10.1177/01617346241277178)<br><em> Ultrasonic Imaging, 2024.</em>
+
 * <b>Xiaorui Peng</b>, Aaron Dentinger, Shivangi Kewalramani, Zhanpeng Xu, Steven Gray, Soumya Ghose, Yew Teck Tan, Zhaoyuan Yang, Janggun Jo, David Chamberland, Guan Xu, Nada Abdulaziz, Girish Gandikota, David Mills, Xueding Wang.  <br>[An Automatic 3-D Ultrasound and Photoacoustic Combined Imaging System for Human Inflammatory Arthritis](https://ieeexplore.ieee.org/abstract/document/10168175)<br><em> IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control, vol. 70, no. 12, pp. 1691-1702, Dec. 2023.</em> <b><font color="blue">SPOTLIGHT ISSUE ON ADVANCING THE FRONTIERS IN PHOTOACOUSTIC IMAGING.</font></b>
 
 * <b>Xiaorui Peng</b>, Zhanpeng Xu, Aaron Dentinger, Shivangi Kewalramani, Janggun Jo, Guan Xu, David Chamberland, Nada Abdulaziz, Girish Gandikota, David Mills, Xueding Wang.  <br>[Longitudinal volumetric assessment of inflammatory arthritis via photoacoustic imaging and Doppler ultrasound imaging](https://www.sciencedirect.com/science/article/pii/S2213597923000678)<br><em> Photoacoustics, Volume 31, 2023.</em>
