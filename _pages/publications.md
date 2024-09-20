@@ -20,17 +20,7 @@ author_profile: true
 * Xiaoyi Zhu, Qiang Huang, Anthony DiSpirito, Tri Vu, Qiangzhou Rong, <b>Xiaorui Peng</b>, Huaxin Sheng, Xiling Shen, Qifa Zhou, Laiming Jiang, Ulrike Hoffmann, Junjie Yao.  <br>[Real-time whole-brain imaging of hemodynamics and oxygenation at micro-vessel resolution with ultrafast wide-field photoacoustic microscopy](https://www.nature.com/articles/s41377-022-00836-2)<br><em> Light: Science & Applications, Volume 11 (1), 2022.</em>
 
 * Tingyang Duan*, <b>Xiaorui Peng*</b>, Maomao Chen, Dong Zhang, Fei Gao, Junjie Yao.  <br>[Detection of weak optical absorption by optical-resolution photoacoustic microscopy](https://www.sciencedirect.com/science/article/pii/S2213597922000076)<br><em> Photoacoustics, Volume 25, 2022.</em>
-<!-- 
-* <b>R. A. Lobos</b>.  <br>[title](link)<br><em> Magnetic Resonance in Medicine, 90:222-230, 2023.</em>
 
-* <b>R. A. Lobos</b>.  <br>[title](link)<br><em> Magnetic Resonance in Medicine, 90:222-230, 2023.</em>
-
-* <b>R. A. Lobos</b>.  <br>[title](link)<br><em> Magnetic Resonance in Medicine, 90:222-230, 2023.</em>
-
-* <b>R. A. Lobos</b>.  <br>[title](link)<br><em> Magnetic Resonance in Medicine, 90:222-230, 2023.</em>
-
-* <b>R. A. Lobos</b>.  <br>[title](link)<br><em> Magnetic Resonance in Medicine, 90:222-230, 2023.</em>
--->
 
 <b>Conference</b>
 ======
@@ -45,15 +35,8 @@ author_profile: true
 * Xiaoyi Zhu, Qiang Huang, Anthony DiSpirito, Tri Vu, Qiangzhou Rong,  <b>Xiaorui Peng</b>, Huaxin Sheng, Xiling Shen, Qifa Zhou, Laiming Jiang, Ulrike Hoffmann, Junjie Yao.   <br>[High-speed wide-field functional photoacoustic microscopy of mouse brain actions](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/PC11960/PC119600Z/High-speed-wide-field-functional-photoacoustic-microscopy-of-mouse-brain/10.1117/12.2608398.full)<br><em>Photons Plus Ultrasound: Imaging and Sensing 2022;.</em>
 
 * Peixuan Wang, <b>Xiaorui Peng</b>, Jiayu Chen, Jiacheng Chen.    <br>[Highly Maneuverable Ground Reconnaissance Robot Based on Machine Learning](https://ieeexplore.ieee.org/abstract/document/8586709)<br><em>2018 3rd International Conference on Robotics and Automation Engineering (ICRAE).</em>
-<!-- 
-* <b>X Peng</b>    <br>[name](link)<br><em>cn.</em>
+ 
 
-* <b>X Peng</b>    <br>[name](link)<br><em>cn.</em>
-
-* <b>X Peng</b>    <br>[name](link)<br><em>cn.</em>
-
-* <b>X Peng</b>    <br>[name](link)<br><em>cn.</em>
---> 
 
 <!-- 
 *  <b>R. A. Lobos</b>, C.-C. Chan, J. P. Haldar.  <br>[New Theory and Faster Computations for Subspace-Based Sensitivity Map Estimation in Multichannel MRI](https://ieeexplore.ieee.org/document/10190117)<br><em> IEEE Transactions on Medical Imaging 43:286-296, 2024</em>. [(Extended preprint)](https://arxiv.org/abs/2302.13431). <br>[Related software.](https://mr.usc.edu/download/pisco/)<br>
